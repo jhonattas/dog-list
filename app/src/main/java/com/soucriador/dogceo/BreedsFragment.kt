@@ -1,4 +1,4 @@
-package br.com.tsouto.mvvmkotlinbreedsample
+package com.soucriador.dogceo
 
 import android.arch.lifecycle.Observer
 import android.os.Bundle
@@ -8,10 +8,10 @@ import android.support.v7.widget.LinearLayoutManager
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import br.com.tsouto.mvvmkotlinbreedsample.breeds.BreedsAdapter
-import br.com.tsouto.mvvmkotlinbreedsample.breeds.BreedsViewModel
-import br.com.tsouto.mvvmkotlinbreedsample.data.Breed
-import br.com.tsouto.mvvmkotlinbreedsample.databinding.BreedsFragmentBinding
+import com.soucriador.dogceo.breeds.BreedsAdapter
+import com.soucriador.dogceo.breeds.BreedsViewModel
+import com.soucriador.dogceo.data.Breed
+import com.soucriador.dogceo.databinding.BreedsFragmentBinding
 import org.koin.android.viewmodel.ext.android.viewModel
 
 

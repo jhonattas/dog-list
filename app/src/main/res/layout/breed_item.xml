@@ -3,12 +3,12 @@
 
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="br.com.tsouto.mvvmkotlinbreedsample.BreedsActivity">
+    tools:context="com.soucriador.dogceo.BreedsActivity">
 
     <data>
         <variable
             name="breed"
-            type="br.com.tsouto.mvvmkotlinbreedsample.data.Breed" />
+            type="com.soucriador.dogceo.data.Breed" />
     </data>
 
     <TextView

@@ -1,8 +1,8 @@
-package br.com.tsouto.mvvmkotlinbreedsample
+package com.soucriador.dogceo
 
 import android.databinding.BindingAdapter
 import android.support.v7.widget.RecyclerView
-import br.com.tsouto.mvvmkotlinbreedsample.breeds.AdapterItemsContract
+import com.soucriador.dogceo.breeds.AdapterItemsContract
 
 class BindingAdapters {
 

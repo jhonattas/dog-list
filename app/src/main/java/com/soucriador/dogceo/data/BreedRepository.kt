@@ -1,4 +1,4 @@
-package br.com.tsouto.mvvmkotlinbreedsample.data
+package com.soucriador.dogceo.data
 
 class BreedRepository(private val dogCeoDataSource: BreedDataSource) : BreedDataSource {
 

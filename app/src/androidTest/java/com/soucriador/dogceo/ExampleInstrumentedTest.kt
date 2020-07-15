@@ -1,4 +1,4 @@
-package br.com.tsouto.mvvmkotlinbreedsample
+package com.soucriador.dogceo
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("br.com.tsouto.mvvmkotlinbreedsample", appContext.packageName)
+        assertEquals("com.soucriador.dogceo", appContext.packageName)
     }
 }

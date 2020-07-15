@@ -1,7 +1,7 @@
-package br.com.tsouto.mvvmkotlinbreedsample
+package com.soucriador.dogceo
 
 import android.app.Application
-import br.com.tsouto.mvvmkotlinbreedsample.di.breedsModule
+import com.soucriador.dogceo.di.breedsModule
 import org.koin.android.ext.android.startKoin
 
 class BreedsApplication : Application(){

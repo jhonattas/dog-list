@@ -1,7 +1,7 @@
-package br.com.tsouto.mvvmkotlinbreedsample.data.remote
+package com.soucriador.dogceo.data.remote
 
-import br.com.tsouto.mvvmkotlinbreedsample.data.Breed
-import br.com.tsouto.mvvmkotlinbreedsample.data.BreedDataSource
+import com.soucriador.dogceo.data.Breed
+import com.soucriador.dogceo.data.BreedDataSource
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

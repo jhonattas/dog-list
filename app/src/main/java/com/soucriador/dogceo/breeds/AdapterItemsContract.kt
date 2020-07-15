@@ -1,4 +1,4 @@
-package br.com.tsouto.mvvmkotlinbreedsample.breeds
+package com.soucriador.dogceo.breeds
 
 
 interface AdapterItemsContract {

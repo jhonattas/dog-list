@@ -1,11 +1,11 @@
-package br.com.tsouto.mvvmkotlinbreedsample.data.remote
+package com.soucriador.dogceo.data.remote
 
 import retrofit2.Call
 import retrofit2.http.GET
 
 interface DogCeoApi{
 
-    @GET("breeds/list")
+    @GET("breeds/list/all")
     fun listBreeds(): Call<DogCeoResponse>
 
 }

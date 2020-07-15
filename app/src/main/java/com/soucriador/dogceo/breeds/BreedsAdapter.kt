@@ -1,11 +1,10 @@
-package br.com.tsouto.mvvmkotlinbreedsample.breeds
+package com.soucriador.dogceo.breeds
 
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import br.com.tsouto.mvvmkotlinbreedsample.data.Breed
-import br.com.tsouto.mvvmkotlinbreedsample.databinding.BreedItemBinding
-
+import com.soucriador.dogceo.data.Breed
+import com.soucriador.dogceo.databinding.BreedItemBinding
 
 
 class BreedsAdapter(var items: List<Breed>) : RecyclerView.Adapter<BreedsAdapter.ViewHolder>(), AdapterItemsContract{

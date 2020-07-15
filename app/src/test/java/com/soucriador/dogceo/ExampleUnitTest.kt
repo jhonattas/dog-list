@@ -1,4 +1,4 @@
-package br.com.tsouto.mvvmkotlinbreedsample
+package com.soucriador.dogceo
 
 import org.junit.Test
 
