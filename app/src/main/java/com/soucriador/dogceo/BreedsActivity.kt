@@ -1,7 +1,7 @@
 package com.soucriador.dogceo
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.soucriador.dogceo.R
 import kotlinx.android.synthetic.main.breeds_activity.*
 

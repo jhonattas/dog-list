@@ -1,10 +1,10 @@
 package com.soucriador.dogceo.breeds
 
 import android.app.Application
-import android.arch.lifecycle.MutableLiveData
-import android.arch.lifecycle.ViewModel
-import android.databinding.ObservableBoolean
-import android.databinding.ObservableField
+import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.ViewModel
+import androidx.databinding.ObservableBoolean
+import androidx.databinding.ObservableField
 import com.soucriador.dogceo.R
 import com.soucriador.dogceo.data.Breed
 import com.soucriador.dogceo.data.BreedDataSource
